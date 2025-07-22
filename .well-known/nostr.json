@@ -1,20 +1,11 @@
 {
   "names": {
-    "_": "8aff0eaf698f2d4dc793620ce717c29afa3cf4508a111cc0ab5383a7f83aa6c4",
+    "_": "8182aedbfa3f653f170cc9b56f8499ed71a3077b02ee15cd8be2df02e1452165",
     "elle": "8aff0eaf698f2d4dc793620ce717c29afa3cf4508a111cc0ab5383a7f83aa6c4",
     "alice": "8182aedbfa3f653f170cc9b56f8499ed71a3077b02ee15cd8be2df02e1452165",
     "alicegrey": "8182aedbfa3f653f170cc9b56f8499ed71a3077b02ee15cd8be2df02e1452165"
            },
   "relays": {
-    "8aff0eaf698f2d4dc793620ce717c29afa3cf4508a111cc0ab5383a7f83aa6c4": [
-      "wss://relay.primal.net",
-      "wss://nos.lol",
-      "wss://relay.damus.io",
-      "wss://relay.nostr.band",
-      "wss://jellyfish.land",
-      "wss://nostr.wine",
-      "wss://nostr.land"
-    ],
     "8182aedbfa3f653f170cc9b56f8499ed71a3077b02ee15cd8be2df02e1452165": [
       "wss://relay.primal.net",
       "wss://nos.lol",
