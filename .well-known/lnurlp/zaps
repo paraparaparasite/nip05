@@ -1,8 +1,8 @@
 {
-	"callback":"https://coinos.io/api/lnurl/721ada2b-f2fb-48dd-9449-095a061a14ea",
+	"callback":"https://coinos.io/api/lnurl/9aa77727-a2d3-4bd9-b9ca-f247aa21ce51",
 	"maxSendable":100000000000,
 	"minSendable":1000,
-	"metadata":"[[\"text/plain\",\"Pay to Coinos user: elle\"],[\"text/identifier\",\"ellephant@coinos.io\"]]",
+	"metadata":"[[\"text/plain\",\"Pay to Coinos user: Alice Grey\"],[\"text/identifier\",\"alicegrey@coinos.io\"]]",
 	"commentAllowed":512,
 	"tag":"payRequest"
 }
