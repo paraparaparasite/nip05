@@ -1,5 +1,5 @@
 {
-	"callback":"https://coinos.io/api/lnurl/9aa77727-a2d3-4bd9-b9ca-f247aa21ce51",
+	"callback":"https://coinos.io/api/lnurl/73df7f72-a4f8-4af2-ac5e-357c6a34ff74",
 	"maxSendable":100000000000,
 	"minSendable":1000,
 	"metadata":"[[\"text/plain\",\"Pay to Coinos user: Alice Grey\"],[\"text/identifier\",\"alicegrey@coinos.io\"]]",
